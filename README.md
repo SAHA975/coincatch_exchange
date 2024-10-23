@@ -7,4 +7,4 @@ How to use/install:
 
     from .Coincatch_Futures import CoinCatchFutures
 
-    Or clone source code in your project.
+  Or clone source code in your project.
