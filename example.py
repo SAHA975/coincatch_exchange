@@ -1,4 +1,4 @@
-from .Coincatch_Futures import CoinexFutures
+from .Coincatch_Futures import CoinCatchFutures
 
 API_KEY = 'YOUR_API_KEY'
 SECRET_KEY = 'YOUR_SECRET_KEY'
